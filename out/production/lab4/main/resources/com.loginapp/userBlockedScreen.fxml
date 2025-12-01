@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="167.0" prefWidth="308.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.com.loginapp.controllers.UserBlockedController">
+   <children>
+      <Text fill="RED" layoutX="104.0" layoutY="88.0" strokeType="OUTSIDE" strokeWidth="0.0" text="this user is blocked" />
+   </children>
+</AnchorPane>
